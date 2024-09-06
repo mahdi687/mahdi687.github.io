@@ -102,47 +102,47 @@ const mentor = [
 
 
 
-     //////////////////////////////////////////link and Images//////////////////////////////////////////////////////////////
+    
     title: "Global Game Jam 2022",
     subtitle: "Online",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
-    href: "https://uplift.girlscript.tech/",
+    image: "assets/images/experience-page/GGJ.jpg",
+    desp: "The theme was ''Duality'', We created a puzzle game with two characters, an angel and a devil, who had to help each other solve challenges. The duality theme perfectly fit the cooperative gameplay.",
+    href: "https://globalgamejam.org/",
   },
   {
     title: "Global Game Jam 2023",
     subtitle: "Borj cedria",
-    image: "assets/images/experience-page/ulhacks.png",
-    desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
-    href: "https://ulhacks.com/",
+    image: "assets/images/experience-page/GGJ.jpg",
+    desp: "In 2023, the theme ''Roots'' , we made a puzzle game revolved around exploring the roots of humanity, with a focus on discovery and growth. The theme ''Roots'' gave us a deep, meaningful foundation to build on.",
+    href: "https://globalgamejam.org/",
   },
   {
     title: "Global Game Jam 2024",
     subtitle: "Sousse",
-    image: "assets/images/experience-page/wafflehacks.png",
-    desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
-    href: "https://wafflehacks.org/",
+    image: "assets/images/experience-page/GGJ.jpg",
+    desp: "A narrative-guided game with fun twists, our 2024 entry embraced the theme ''Make me laugh''. The lighthearted humor made for a delightful gaming experience.",
+    href: "https://globalgamejam.org/",
   },
   {
     title: "L'ami tji meta",
     subtitle: "Manouba",
-    image: "assets/images/experience-page/elevate.png",
-    desp: "Elevate Hacks is an upcoming all-female virtual hackathon coming from AUGUST 14th to 15th.",
-    href: "https://elevatetech.codes/",
+    image: "assets/images/experience-page/AMI.png",
+    desp: "we developed a VR simulation tailored for an insurance company. The goal was to help them assist clients by creating immersive, real-life scenarios to simulate various situations and responses.",
+    href: "https://www.facebook.com/events/3533242290238822",
   },
   {
     title: "Log Game Jam 2023",
     subtitle: "Manouba",
-    image: "assets/images/experience-page/pitchteen.png",
-    desp: "PitchTeen 2.0 was a tech startup competition for female and non-binary communities in high school and college from all over the world with an aim to create a safe and encouraging place for women to help them explore tech and business fields.",
-    href: "https://www.linkedin.com/company/pitchteen/about/",
+    image: "assets/images/experience-page/Log.png",
+    desp: "the theme was ''Destruction,'' and I designed a puzzle game focused on breaking the right objects. The goal was to strategically destroy specific items to advance to the next level.",
+    href: "",
   },
   {
     title: "Brackeys Game Jam 2024",
     subtitle: "Online",
-    image: "assets/images/experience-page/hackasolution.png",
-    desp: "Hack-a-Solution 2021 is a 24 hour long hackathon organized by Frisco students to raise awareness of world issues through technology.",
-    href: "https://hackasolution.devpost.com/",
+    image: "assets/images/experience-page/Brackeys.png",
+    desp: "Still In Progress .......",
+    href: "https://itch.io/jam/brackeys-12",
   },
   
 
@@ -150,7 +150,7 @@ const mentor = [
 
 
 
-  //////////////////////////////////////////link and Images//////////////////////////////////////////////////////////////
+
 ];
 
 const showCards3 = () => {
