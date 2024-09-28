@@ -11,6 +11,13 @@ const exp = [
     time: "(July, 2024 - September ,2024)",
     desp: "<li>Worked on a re creation of an exsiting game but with a new concept.</li> <li>Reskinned a house builder asset to make it a booth creator.</li> <li>Made trailers for the 2 projects I made.</li>",
   },
+  {
+    title: "Unity developer freelance",
+    cardImage: "assets/images/experience-page/Clinick.png",
+    place: "Tunisia",
+    time: "",
+    desp: "<li>Implemented the map in both the GameIn and Pause Menu.</li> <li>Updated the systems for Nurse/Patient and Intern/Senior conversations.</li> <li>Developed and integrated feedback mechanisms and player performance evaluation systems.</li> <li>Fully integrated the updated 3D environment into the game.</li><li> Added the 3D cinematic to play before the game launch. <li>Optimized the game’s performance and ensured its stability.</li>",
+  },
   
 ];
 
